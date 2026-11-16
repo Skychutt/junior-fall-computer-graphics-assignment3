@@ -1,6 +1,6 @@
 # Assignment 3 - Animation and Textures
 
-Name: Tianze Chu (楚天泽)  
+Name: Chu Tianze (楚天泽)  
 UCD Student ID: 24107737  
 BDIC Student ID: 24372307
 
